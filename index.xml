@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Christopher Steele</title>
+    <link>https://csteele81.github.io/Christopher_Steele_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Christopher Steele</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://csteele81.github.io/Christopher_Steele_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Powerise Production Analysis Tool</title>
+      <link>https://csteele81.github.io/Christopher_Steele_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 09 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://csteele81.github.io/Christopher_Steele_Portfolio/post/project-1/</guid>
+      <description>Objective: Reduce the number of reworks required in the Powerise production process by creating a visualization tool to summarize the capability of a production build and help stakeholders root cause build/machine issues.
+Outcome: The visualization tool successfully summarizes the capability of builds in a visual and easy to understand way, and is now a required G5 deliverable for all Stabilus programs. The tool has been used to identify production build issues and has led to significant changes to the production control plan, such as:</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Warranty Aggregation Tool</title>
+      <link>https://csteele81.github.io/Christopher_Steele_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://csteele81.github.io/Christopher_Steele_Portfolio/post/project-2/</guid>
+      <description>Objective: Aggregate warranty data from multiple customer portals for monthly warranty reporting.
+Outcome: The aggregation tool successfully merges and summarizes data from various customer portals and is used in monthly warranty reporting, warranty problem solving, and prioritization.
+Process:
+Import Data
+Uploads data from multiple customer warranty AWS databases. Clean Data Created a system that automatically cleans, filters, and groups the data to make it easier to work with. Feature Engineering</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://csteele81.github.io/Christopher_Steele_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://csteele81.github.io/Christopher_Steele_Portfolio/about/</guid>
+      <description>Hi, my name is Christopher Steele, and I am an aspiring Data Scientist. I&amp;rsquo;ve been working as an Applications Engineer for the last 6 years, but over the last few years, I&amp;rsquo;ve become more and more attracted to the field of data science. It began with me leading a work project relating to Big Data Analysis. While working on this project, I learned from the ground up how to program using Python, connect to SQL databases to query them, and create detailed visualizations that communicate complicated information in a simple way.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://csteele81.github.io/Christopher_Steele_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://csteele81.github.io/Christopher_Steele_Portfolio/contact/</guid>
+      <description>Please feel free to contact me regarding job opportunities!
+Platform Contact Information ___________ ___________________________ Email: Steelechris30@gmail.com LinkedIn: https://Linkedin.com/in/csteele81/ Phone: 775-315-0774 </description>
+    </item>
+    
+  </channel>
+</rss>
